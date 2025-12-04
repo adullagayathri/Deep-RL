@@ -1,0 +1,1299 @@
+Episode 1 | Reward: 11.0 | Epsilon 0.998
+Episode 2 | Reward: 9.0 | Epsilon 0.997
+Episode 3 | Reward: 16.0 | Epsilon 0.995
+Episode 4 | Reward: 8.0 | Epsilon 0.994
+Episode 5 | Reward: 8.0 | Epsilon 0.993
+Episode 6 | Reward: 9.0 | Epsilon 0.992
+Episode 7 | Reward: 10.0 | Epsilon 0.991
+Episode 8 | Reward: 6.0 | Epsilon 0.990
+Episode 9 | Reward: 8.0 | Epsilon 0.989
+Episode 10 | Reward: 4.0 | Epsilon 0.988
+Episode 11 | Reward: 8.0 | Epsilon 0.987
+Episode 12 | Reward: 3.0 | Epsilon 0.986
+Episode 13 | Reward: 5.0 | Epsilon 0.985
+Episode 14 | Reward: 5.0 | Epsilon 0.984
+Episode 15 | Reward: 5.0 | Epsilon 0.983
+Episode 16 | Reward: 15.0 | Epsilon 0.981
+Episode 17 | Reward: 5.0 | Epsilon 0.981
+Episode 18 | Reward: 7.0 | Epsilon 0.980
+Episode 19 | Reward: 4.0 | Epsilon 0.979
+Episode 20 | Reward: 15.0 | Epsilon 0.977
+Episode 21 | Reward: 7.0 | Epsilon 0.976
+Target updated at step 10000
+Episode 22 | Reward: 4.0 | Epsilon 0.975
+Episode 23 | Reward: 3.0 | Epsilon 0.974
+Episode 24 | Reward: 3.0 | Epsilon 0.973
+Episode 25 | Reward: 5.0 | Epsilon 0.973
+Episode 26 | Reward: 15.0 | Epsilon 0.971
+Target updated at step 12000
+Episode 27 | Reward: 21.0 | Epsilon 0.969
+Episode 28 | Reward: 11.0 | Epsilon 0.967
+Episode 29 | Reward: 7.0 | Epsilon 0.966
+Target updated at step 14000
+Episode 30 | Reward: 9.0 | Epsilon 0.965
+Episode 31 | Reward: 15.0 | Epsilon 0.963
+Episode 32 | Reward: 11.0 | Epsilon 0.962
+Episode 33 | Reward: 6.0 | Epsilon 0.961
+Target updated at step 16000
+Episode 34 | Reward: 12.0 | Epsilon 0.959
+Episode 35 | Reward: 8.0 | Epsilon 0.957
+Episode 36 | Reward: 7.0 | Epsilon 0.956
+Episode 37 | Reward: 9.0 | Epsilon 0.955
+Target updated at step 18000
+Episode 38 | Reward: 9.0 | Epsilon 0.955
+Episode 39 | Reward: 21.0 | Epsilon 0.952
+Episode 40 | Reward: 5.0 | Epsilon 0.951
+Target updated at step 20000
+Episode 41 | Reward: 7.0 | Epsilon 0.950
+Episode 42 | Reward: 12.0 | Epsilon 0.948
+Episode 43 | Reward: 4.0 | Epsilon 0.948
+Episode 44 | Reward: 8.0 | Epsilon 0.946
+Episode 45 | Reward: 5.0 | Epsilon 0.945
+Target updated at step 22000
+Episode 46 | Reward: 12.0 | Epsilon 0.944
+Episode 47 | Reward: 4.0 | Epsilon 0.943
+Episode 48 | Reward: 6.0 | Epsilon 0.942
+Episode 49 | Reward: 9.0 | Epsilon 0.940
+Target updated at step 24000
+Episode 50 | Reward: 10.0 | Epsilon 0.939
+Episode 51 | Reward: 7.0 | Epsilon 0.938
+Episode 52 | Reward: 6.0 | Epsilon 0.937
+Episode 53 | Reward: 7.0 | Epsilon 0.936
+Target updated at step 26000
+Episode 54 | Reward: 6.0 | Epsilon 0.935
+Episode 55 | Reward: 15.0 | Epsilon 0.933
+Episode 56 | Reward: 16.0 | Epsilon 0.932
+Episode 57 | Reward: 3.0 | Epsilon 0.931
+Target updated at step 28000
+Episode 58 | Reward: 10.0 | Epsilon 0.930
+Episode 59 | Reward: 18.0 | Epsilon 0.928
+Episode 60 | Reward: 7.0 | Epsilon 0.926
+Episode 61 | Reward: 10.0 | Epsilon 0.925
+Target updated at step 30000
+Episode 62 | Reward: 5.0 | Epsilon 0.924
+Episode 63 | Reward: 6.0 | Epsilon 0.924
+Episode 64 | Reward: 9.0 | Epsilon 0.922
+Episode 65 | Reward: 6.0 | Epsilon 0.921
+Target updated at step 32000
+Episode 66 | Reward: 14.0 | Epsilon 0.920
+Episode 67 | Reward: 14.0 | Epsilon 0.919
+Episode 68 | Reward: 15.0 | Epsilon 0.916
+Target updated at step 34000
+Episode 69 | Reward: 18.0 | Epsilon 0.914
+Episode 70 | Reward: 9.0 | Epsilon 0.913
+Episode 71 | Reward: 7.0 | Epsilon 0.912
+Episode 72 | Reward: 4.0 | Epsilon 0.911
+Target updated at step 36000
+Episode 73 | Reward: 6.0 | Epsilon 0.910
+Episode 74 | Reward: 16.0 | Epsilon 0.908
+Episode 75 | Reward: 7.0 | Epsilon 0.907
+Target updated at step 38000
+Episode 76 | Reward: 18.0 | Epsilon 0.904
+Episode 77 | Reward: 9.0 | Epsilon 0.903
+Episode 78 | Reward: 3.0 | Epsilon 0.903
+Episode 79 | Reward: 13.0 | Epsilon 0.901
+Target updated at step 40000
+Episode 80 | Reward: 12.0 | Epsilon 0.900
+Episode 81 | Reward: 10.0 | Epsilon 0.898
+Episode 82 | Reward: 15.0 | Epsilon 0.897
+Episode 83 | Reward: 12.0 | Epsilon 0.895
+Target updated at step 42000
+Episode 84 | Reward: 6.0 | Epsilon 0.894
+Episode 85 | Reward: 7.0 | Epsilon 0.893
+Episode 86 | Reward: 9.0 | Epsilon 0.892
+Episode 87 | Reward: 9.0 | Epsilon 0.891
+Target updated at step 44000
+Episode 88 | Reward: 4.0 | Epsilon 0.890
+Episode 89 | Reward: 6.0 | Epsilon 0.889
+Episode 90 | Reward: 15.0 | Epsilon 0.887
+Episode 91 | Reward: 6.0 | Epsilon 0.886
+Episode 92 | Reward: 5.0 | Epsilon 0.885
+Target updated at step 46000
+Episode 93 | Reward: 18.0 | Epsilon 0.883
+Episode 94 | Reward: 9.0 | Epsilon 0.882
+Episode 95 | Reward: 16.0 | Epsilon 0.880
+Target updated at step 48000
+Episode 96 | Reward: 13.0 | Epsilon 0.878
+Episode 97 | Reward: 12.0 | Epsilon 0.877
+Episode 98 | Reward: 4.0 | Epsilon 0.876
+Target updated at step 50000
+Episode 99 | Reward: 12.0 | Epsilon 0.875
+Episode 100 | Reward: 13.0 | Epsilon 0.873
+Episode 101 | Reward: 11.0 | Epsilon 0.872
+Episode 102 | Reward: 14.0 | Epsilon 0.870
+Target updated at step 52000
+Episode 103 | Reward: 7.0 | Epsilon 0.869
+Episode 104 | Reward: 13.0 | Epsilon 0.868
+Episode 105 | Reward: 7.0 | Epsilon 0.866
+Target updated at step 54000
+Episode 106 | Reward: 16.0 | Epsilon 0.864
+Episode 107 | Reward: 10.0 | Epsilon 0.863
+Episode 108 | Reward: 15.0 | Epsilon 0.862
+Episode 109 | Reward: 6.0 | Epsilon 0.861
+Target updated at step 56000
+Episode 110 | Reward: 11.0 | Epsilon 0.859
+Episode 111 | Reward: 13.0 | Epsilon 0.857
+Episode 112 | Reward: 6.0 | Epsilon 0.856
+Episode 113 | Reward: 6.0 | Epsilon 0.855
+Target updated at step 58000
+Episode 114 | Reward: 12.0 | Epsilon 0.854
+Episode 115 | Reward: 7.0 | Epsilon 0.853
+Episode 116 | Reward: 7.0 | Epsilon 0.852
+Episode 117 | Reward: 7.0 | Epsilon 0.851
+Target updated at step 60000
+Episode 118 | Reward: 13.0 | Epsilon 0.849
+Episode 119 | Reward: 11.0 | Epsilon 0.848
+Episode 120 | Reward: 9.0 | Epsilon 0.847
+Episode 121 | Reward: 11.0 | Epsilon 0.846
+Target updated at step 62000
+Episode 122 | Reward: 4.0 | Epsilon 0.845
+Episode 123 | Reward: 19.0 | Epsilon 0.842
+Episode 124 | Reward: 6.0 | Epsilon 0.841
+Target updated at step 64000
+Episode 125 | Reward: 11.0 | Epsilon 0.840
+Episode 126 | Reward: 10.0 | Epsilon 0.839
+Episode 127 | Reward: 11.0 | Epsilon 0.837
+Episode 128 | Reward: 13.0 | Epsilon 0.835
+Target updated at step 66000
+Episode 129 | Reward: 18.0 | Epsilon 0.833
+Episode 130 | Reward: 20.0 | Epsilon 0.831
+Episode 131 | Reward: 3.0 | Epsilon 0.830
+Target updated at step 68000
+Episode 132 | Reward: 7.0 | Epsilon 0.829
+Episode 133 | Reward: 7.0 | Epsilon 0.828
+Episode 134 | Reward: 5.0 | Epsilon 0.828
+Episode 135 | Reward: 14.0 | Epsilon 0.826
+Episode 136 | Reward: 7.0 | Epsilon 0.825
+Target updated at step 70000
+Episode 137 | Reward: 5.0 | Epsilon 0.824
+Episode 138 | Reward: 14.0 | Epsilon 0.823
+Episode 139 | Reward: 9.0 | Epsilon 0.821
+Episode 140 | Reward: 8.0 | Epsilon 0.820
+Target updated at step 72000
+Episode 141 | Reward: 7.0 | Epsilon 0.819
+Episode 142 | Reward: 9.0 | Epsilon 0.818
+Episode 143 | Reward: 10.0 | Epsilon 0.817
+Episode 144 | Reward: 7.0 | Epsilon 0.816
+Target updated at step 74000
+Episode 145 | Reward: 20.0 | Epsilon 0.814
+Episode 146 | Reward: 9.0 | Epsilon 0.813
+Episode 147 | Reward: 7.0 | Epsilon 0.812
+Episode 148 | Reward: 9.0 | Epsilon 0.810
+Target updated at step 76000
+Episode 149 | Reward: 25.0 | Epsilon 0.808
+Episode 150 | Reward: 20.0 | Epsilon 0.806
+Target updated at step 78000
+Episode 151 | Reward: 8.0 | Epsilon 0.804
+Episode 152 | Reward: 5.0 | Epsilon 0.804
+Episode 153 | Reward: 4.0 | Epsilon 0.803
+Episode 154 | Reward: 16.0 | Epsilon 0.801
+Target updated at step 80000
+Episode 155 | Reward: 12.0 | Epsilon 0.800
+Episode 156 | Reward: 8.0 | Epsilon 0.799
+Episode 157 | Reward: 8.0 | Epsilon 0.798
+Episode 158 | Reward: 9.0 | Epsilon 0.797
+Episode 159 | Reward: 11.0 | Epsilon 0.796
+Target updated at step 82000
+Episode 160 | Reward: 12.0 | Epsilon 0.794
+Episode 161 | Reward: 21.0 | Epsilon 0.793
+Episode 162 | Reward: 13.0 | Epsilon 0.791
+Target updated at step 84000
+Episode 163 | Reward: 8.0 | Epsilon 0.790
+Episode 164 | Reward: 10.0 | Epsilon 0.789
+Episode 165 | Reward: 17.0 | Epsilon 0.786
+Target updated at step 86000
+Episode 166 | Reward: 12.0 | Epsilon 0.785
+Episode 167 | Reward: 24.0 | Epsilon 0.782
+Episode 168 | Reward: 15.0 | Epsilon 0.781
+Target updated at step 88000
+Episode 169 | Reward: 11.0 | Epsilon 0.780
+Episode 170 | Reward: 15.0 | Epsilon 0.778
+Episode 171 | Reward: 5.0 | Epsilon 0.777
+Episode 172 | Reward: 10.0 | Epsilon 0.776
+Target updated at step 90000
+Episode 173 | Reward: 22.0 | Epsilon 0.774
+Episode 174 | Reward: 13.0 | Epsilon 0.772
+Episode 175 | Reward: 8.0 | Epsilon 0.771
+Target updated at step 92000
+Episode 176 | Reward: 14.0 | Epsilon 0.770
+Episode 177 | Reward: 11.0 | Epsilon 0.768
+Episode 178 | Reward: 10.0 | Epsilon 0.767
+Target updated at step 94000
+Episode 179 | Reward: 19.0 | Epsilon 0.765
+Episode 180 | Reward: 12.0 | Epsilon 0.763
+Episode 181 | Reward: 13.0 | Epsilon 0.761
+Target updated at step 96000
+Episode 182 | Reward: 18.0 | Epsilon 0.760
+Episode 183 | Reward: 4.0 | Epsilon 0.759
+Episode 184 | Reward: 8.0 | Epsilon 0.758
+Episode 185 | Reward: 21.0 | Epsilon 0.756
+Target updated at step 98000
+Episode 186 | Reward: 9.0 | Epsilon 0.755
+Episode 187 | Reward: 9.0 | Epsilon 0.754
+Episode 188 | Reward: 12.0 | Epsilon 0.752
+Episode 189 | Reward: 13.0 | Epsilon 0.751
+Target updated at step 100000
+Episode 190 | Reward: 9.0 | Epsilon 0.750
+Episode 191 | Reward: 14.0 | Epsilon 0.748
+Episode 192 | Reward: 18.0 | Epsilon 0.746
+Episode 193 | Reward: 5.0 | Epsilon 0.745
+Target updated at step 102000
+Episode 194 | Reward: 12.0 | Epsilon 0.744
+Episode 195 | Reward: 11.0 | Epsilon 0.743
+Episode 196 | Reward: 12.0 | Epsilon 0.741
+Episode 197 | Reward: 10.0 | Epsilon 0.740
+Target updated at step 104000
+Episode 198 | Reward: 8.0 | Epsilon 0.739
+Episode 199 | Reward: 7.0 | Epsilon 0.739
+Episode 200 | Reward: 14.0 | Epsilon 0.737
+Target updated at step 106000
+Episode 201 | Reward: 23.0 | Epsilon 0.735
+Episode 202 | Reward: 13.0 | Epsilon 0.733
+Episode 203 | Reward: 7.0 | Epsilon 0.732
+Episode 204 | Reward: 12.0 | Epsilon 0.731
+Target updated at step 108000
+Episode 205 | Reward: 12.0 | Epsilon 0.730
+Episode 206 | Reward: 12.0 | Epsilon 0.728
+Episode 207 | Reward: 12.0 | Epsilon 0.727
+Episode 208 | Reward: 10.0 | Epsilon 0.725
+Target updated at step 110000
+Episode 209 | Reward: 11.0 | Epsilon 0.724
+Episode 210 | Reward: 24.0 | Epsilon 0.721
+Episode 211 | Reward: 9.0 | Epsilon 0.720
+Target updated at step 112000
+Episode 212 | Reward: 12.0 | Epsilon 0.719
+Episode 213 | Reward: 23.0 | Epsilon 0.717
+Episode 214 | Reward: 10.0 | Epsilon 0.716
+Target updated at step 114000
+Episode 215 | Reward: 19.0 | Epsilon 0.714
+Episode 216 | Reward: 15.0 | Epsilon 0.712
+Episode 217 | Reward: 21.0 | Epsilon 0.711
+Target updated at step 116000
+Episode 218 | Reward: 13.0 | Epsilon 0.709
+Episode 219 | Reward: 11.0 | Epsilon 0.708
+Episode 220 | Reward: 7.0 | Epsilon 0.707
+Episode 221 | Reward: 11.0 | Epsilon 0.706
+Episode 222 | Reward: 11.0 | Epsilon 0.705
+Target updated at step 118000
+Episode 223 | Reward: 10.0 | Epsilon 0.704
+Episode 224 | Reward: 9.0 | Epsilon 0.703
+Episode 225 | Reward: 17.0 | Epsilon 0.701
+Target updated at step 120000
+Episode 226 | Reward: 15.0 | Epsilon 0.699
+Episode 227 | Reward: 20.0 | Epsilon 0.698
+Episode 228 | Reward: 17.0 | Epsilon 0.696
+Episode 229 | Reward: 8.0 | Epsilon 0.695
+Target updated at step 122000
+Episode 230 | Reward: 9.0 | Epsilon 0.694
+Episode 231 | Reward: 20.0 | Epsilon 0.692
+Episode 232 | Reward: 11.0 | Epsilon 0.691
+Target updated at step 124000
+Episode 233 | Reward: 11.0 | Epsilon 0.690
+Episode 234 | Reward: 13.0 | Epsilon 0.688
+Episode 235 | Reward: 23.0 | Epsilon 0.687
+Episode 236 | Reward: 11.0 | Epsilon 0.686
+Target updated at step 126000
+Episode 237 | Reward: 14.0 | Epsilon 0.684
+Episode 238 | Reward: 8.0 | Epsilon 0.683
+Episode 239 | Reward: 8.0 | Epsilon 0.682
+Episode 240 | Reward: 9.0 | Epsilon 0.681
+Target updated at step 128000
+Episode 241 | Reward: 12.0 | Epsilon 0.679
+Episode 242 | Reward: 16.0 | Epsilon 0.678
+Episode 243 | Reward: 15.0 | Epsilon 0.676
+Target updated at step 130000
+Episode 244 | Reward: 17.0 | Epsilon 0.674
+Episode 245 | Reward: 7.0 | Epsilon 0.673
+Episode 246 | Reward: 14.0 | Epsilon 0.672
+Target updated at step 132000
+Episode 247 | Reward: 23.0 | Epsilon 0.670
+Episode 248 | Reward: 22.0 | Epsilon 0.668
+Episode 249 | Reward: 10.0 | Epsilon 0.667
+Episode 250 | Reward: 14.0 | Epsilon 0.665
+Target updated at step 134000
+Episode 251 | Reward: 13.0 | Epsilon 0.664
+Episode 252 | Reward: 10.0 | Epsilon 0.663
+Episode 253 | Reward: 9.0 | Epsilon 0.661
+Episode 254 | Reward: 13.0 | Epsilon 0.660
+Target updated at step 136000
+Episode 255 | Reward: 14.0 | Epsilon 0.659
+Episode 256 | Reward: 20.0 | Epsilon 0.657
+Episode 257 | Reward: 11.0 | Epsilon 0.656
+Target updated at step 138000
+Episode 258 | Reward: 14.0 | Epsilon 0.654
+Episode 259 | Reward: 9.0 | Epsilon 0.653
+Episode 260 | Reward: 14.0 | Epsilon 0.652
+Episode 261 | Reward: 8.0 | Epsilon 0.651
+Target updated at step 140000
+Episode 262 | Reward: 17.0 | Epsilon 0.649
+Episode 263 | Reward: 16.0 | Epsilon 0.648
+Episode 264 | Reward: 8.0 | Epsilon 0.647
+Episode 265 | Reward: 12.0 | Epsilon 0.645
+Target updated at step 142000
+Episode 266 | Reward: 4.0 | Epsilon 0.644
+Episode 267 | Reward: 7.0 | Epsilon 0.643
+Episode 268 | Reward: 24.0 | Epsilon 0.642
+Target updated at step 144000
+Episode 269 | Reward: 15.0 | Epsilon 0.640
+Episode 270 | Reward: 11.0 | Epsilon 0.639
+Episode 271 | Reward: 18.0 | Epsilon 0.636
+Episode 272 | Reward: 10.0 | Epsilon 0.635
+Target updated at step 146000
+Episode 273 | Reward: 21.0 | Epsilon 0.633
+Episode 274 | Reward: 10.0 | Epsilon 0.632
+Episode 275 | Reward: 15.0 | Epsilon 0.631
+Target updated at step 148000
+Episode 276 | Reward: 13.0 | Epsilon 0.629
+Episode 277 | Reward: 17.0 | Epsilon 0.627
+Episode 278 | Reward: 9.0 | Epsilon 0.626
+Target updated at step 150000
+Episode 279 | Reward: 19.0 | Epsilon 0.624
+Episode 280 | Reward: 14.0 | Epsilon 0.623
+Episode 281 | Reward: 11.0 | Epsilon 0.622
+Episode 282 | Reward: 9.0 | Epsilon 0.621
+Target updated at step 152000
+Episode 283 | Reward: 12.0 | Epsilon 0.619
+Episode 284 | Reward: 9.0 | Epsilon 0.618
+Episode 285 | Reward: 4.0 | Epsilon 0.617
+Episode 286 | Reward: 12.0 | Epsilon 0.616
+Target updated at step 154000
+Episode 287 | Reward: 15.0 | Epsilon 0.614
+Episode 288 | Reward: 23.0 | Epsilon 0.612
+Episode 289 | Reward: 18.0 | Epsilon 0.611
+Target updated at step 156000
+Episode 290 | Reward: 24.0 | Epsilon 0.608
+Episode 291 | Reward: 23.0 | Epsilon 0.606
+Target updated at step 158000
+Episode 292 | Reward: 19.0 | Epsilon 0.604
+Episode 293 | Reward: 15.0 | Epsilon 0.603
+Episode 294 | Reward: 9.0 | Epsilon 0.602
+Episode 295 | Reward: 11.0 | Epsilon 0.601
+Target updated at step 160000
+Episode 296 | Reward: 16.0 | Epsilon 0.599
+Episode 297 | Reward: 13.0 | Epsilon 0.598
+Episode 298 | Reward: 11.0 | Epsilon 0.597
+Episode 299 | Reward: 12.0 | Epsilon 0.596
+Target updated at step 162000
+Episode 300 | Reward: 12.0 | Epsilon 0.595
+Episode 301 | Reward: 8.0 | Epsilon 0.594
+Episode 302 | Reward: 7.0 | Epsilon 0.593
+Episode 303 | Reward: 6.0 | Epsilon 0.592
+Episode 304 | Reward: 26.0 | Epsilon 0.590
+Target updated at step 164000
+Episode 305 | Reward: 19.0 | Epsilon 0.588
+Episode 306 | Reward: 20.0 | Epsilon 0.586
+Episode 307 | Reward: 15.0 | Epsilon 0.585
+Target updated at step 166000
+Episode 308 | Reward: 12.0 | Epsilon 0.584
+Episode 309 | Reward: 20.0 | Epsilon 0.582
+Episode 310 | Reward: 16.0 | Epsilon 0.580
+Target updated at step 168000
+Episode 311 | Reward: 12.0 | Epsilon 0.579
+Episode 312 | Reward: 22.0 | Epsilon 0.577
+Episode 313 | Reward: 16.0 | Epsilon 0.575
+Target updated at step 170000
+Episode 314 | Reward: 18.0 | Epsilon 0.574
+Episode 315 | Reward: 25.0 | Epsilon 0.571
+Episode 316 | Reward: 11.0 | Epsilon 0.570
+Target updated at step 172000
+Episode 317 | Reward: 20.0 | Epsilon 0.569
+Episode 318 | Reward: 20.0 | Epsilon 0.567
+Episode 319 | Reward: 22.0 | Epsilon 0.566
+Target updated at step 174000
+Episode 320 | Reward: 30.0 | Epsilon 0.563
+Episode 321 | Reward: 12.0 | Epsilon 0.562
+Episode 322 | Reward: 9.0 | Epsilon 0.561
+Target updated at step 176000
+Episode 323 | Reward: 12.0 | Epsilon 0.560
+Episode 324 | Reward: 22.0 | Epsilon 0.558
+Episode 325 | Reward: 13.0 | Epsilon 0.557
+Episode 326 | Reward: 13.0 | Epsilon 0.555
+Target updated at step 178000
+Episode 327 | Reward: 9.0 | Epsilon 0.554
+Episode 328 | Reward: 17.0 | Epsilon 0.552
+Episode 329 | Reward: 10.0 | Epsilon 0.551
+Target updated at step 180000
+Episode 330 | Reward: 30.0 | Epsilon 0.548
+Episode 331 | Reward: 12.0 | Epsilon 0.547
+Episode 332 | Reward: 8.0 | Epsilon 0.546
+Target updated at step 182000
+Episode 333 | Reward: 19.0 | Epsilon 0.544
+Episode 334 | Reward: 8.0 | Epsilon 0.543
+Episode 335 | Reward: 13.0 | Epsilon 0.541
+Episode 336 | Reward: 5.0 | Epsilon 0.541
+Target updated at step 184000
+Episode 337 | Reward: 15.0 | Epsilon 0.539
+Episode 338 | Reward: 23.0 | Epsilon 0.536
+Target updated at step 186000
+Episode 339 | Reward: 14.0 | Epsilon 0.535
+Episode 340 | Reward: 21.0 | Epsilon 0.533
+Episode 341 | Reward: 11.0 | Epsilon 0.532
+Episode 342 | Reward: 14.0 | Epsilon 0.530
+Target updated at step 188000
+Episode 343 | Reward: 13.0 | Epsilon 0.529
+Episode 344 | Reward: 9.0 | Epsilon 0.528
+Episode 345 | Reward: 16.0 | Epsilon 0.526
+Target updated at step 190000
+Episode 346 | Reward: 17.0 | Epsilon 0.525
+Episode 347 | Reward: 13.0 | Epsilon 0.523
+Episode 348 | Reward: 12.0 | Epsilon 0.521
+Episode 349 | Reward: 11.0 | Epsilon 0.520
+Target updated at step 192000
+Episode 350 | Reward: 8.0 | Epsilon 0.519
+Episode 351 | Reward: 20.0 | Epsilon 0.517
+Episode 352 | Reward: 9.0 | Epsilon 0.516
+Target updated at step 194000
+Episode 353 | Reward: 19.0 | Epsilon 0.514
+Episode 354 | Reward: 31.0 | Epsilon 0.511
+Target updated at step 196000
+Episode 355 | Reward: 20.0 | Epsilon 0.510
+Episode 356 | Reward: 11.0 | Epsilon 0.509
+Episode 357 | Reward: 12.0 | Epsilon 0.507
+Episode 358 | Reward: 11.0 | Epsilon 0.506
+Target updated at step 198000
+Episode 359 | Reward: 21.0 | Epsilon 0.504
+Episode 360 | Reward: 11.0 | Epsilon 0.502
+Episode 361 | Reward: 19.0 | Epsilon 0.501
+Target updated at step 200000
+Episode 362 | Reward: 17.0 | Epsilon 0.499
+Episode 363 | Reward: 7.0 | Epsilon 0.498
+Episode 364 | Reward: 15.0 | Epsilon 0.496
+Target updated at step 202000
+Episode 365 | Reward: 20.0 | Epsilon 0.494
+Episode 366 | Reward: 10.0 | Epsilon 0.493
+Episode 367 | Reward: 18.0 | Epsilon 0.491
+Episode 368 | Reward: 8.0 | Epsilon 0.490
+Target updated at step 204000
+Episode 369 | Reward: 16.0 | Epsilon 0.489
+Episode 370 | Reward: 8.0 | Epsilon 0.488
+Episode 371 | Reward: 17.0 | Epsilon 0.486
+Target updated at step 206000
+Episode 372 | Reward: 11.0 | Epsilon 0.485
+Episode 373 | Reward: 10.0 | Epsilon 0.484
+Episode 374 | Reward: 9.0 | Epsilon 0.482
+Episode 375 | Reward: 9.0 | Epsilon 0.481
+Target updated at step 208000
+Episode 376 | Reward: 14.0 | Epsilon 0.479
+Episode 377 | Reward: 8.0 | Epsilon 0.478
+Episode 378 | Reward: 11.0 | Epsilon 0.477
+Episode 379 | Reward: 19.0 | Epsilon 0.475
+Target updated at step 210000
+Episode 380 | Reward: 12.0 | Epsilon 0.474
+Episode 381 | Reward: 12.0 | Epsilon 0.473
+Episode 382 | Reward: 12.0 | Epsilon 0.471
+Target updated at step 212000
+Episode 383 | Reward: 16.0 | Epsilon 0.470
+Episode 384 | Reward: 16.0 | Epsilon 0.467
+Episode 385 | Reward: 18.0 | Epsilon 0.466
+Target updated at step 214000
+Episode 386 | Reward: 9.0 | Epsilon 0.465
+Episode 387 | Reward: 12.0 | Epsilon 0.464
+Episode 388 | Reward: 15.0 | Epsilon 0.462
+Episode 389 | Reward: 16.0 | Epsilon 0.460
+Target updated at step 216000
+Episode 390 | Reward: 15.0 | Epsilon 0.459
+Episode 391 | Reward: 13.0 | Epsilon 0.457
+Episode 392 | Reward: 13.0 | Epsilon 0.455
+Target updated at step 218000
+Episode 393 | Reward: 7.0 | Epsilon 0.454
+Episode 394 | Reward: 14.0 | Epsilon 0.453
+Episode 395 | Reward: 19.0 | Epsilon 0.452
+Episode 396 | Reward: 7.0 | Epsilon 0.450
+Target updated at step 220000
+Episode 397 | Reward: 12.0 | Epsilon 0.449
+Episode 398 | Reward: 8.0 | Epsilon 0.448
+Episode 399 | Reward: 5.0 | Epsilon 0.447
+Episode 400 | Reward: 10.0 | Epsilon 0.446
+Target updated at step 222000
+Episode 401 | Reward: 15.0 | Epsilon 0.445
+Episode 402 | Reward: 17.0 | Epsilon 0.444
+Episode 403 | Reward: 9.0 | Epsilon 0.443
+Episode 404 | Reward: 9.0 | Epsilon 0.442
+Episode 405 | Reward: 11.0 | Epsilon 0.440
+Target updated at step 224000
+Episode 406 | Reward: 8.0 | Epsilon 0.439
+Episode 407 | Reward: 9.0 | Epsilon 0.439
+Episode 408 | Reward: 9.0 | Epsilon 0.437
+Episode 409 | Reward: 13.0 | Epsilon 0.436
+Target updated at step 226000
+Episode 410 | Reward: 23.0 | Epsilon 0.434
+Episode 411 | Reward: 16.0 | Epsilon 0.432
+Episode 412 | Reward: 19.0 | Epsilon 0.431
+Target updated at step 228000
+Episode 413 | Reward: 12.0 | Epsilon 0.429
+Episode 414 | Reward: 29.0 | Epsilon 0.427
+Episode 415 | Reward: 17.0 | Epsilon 0.426
+Target updated at step 230000
+Episode 416 | Reward: 14.0 | Epsilon 0.425
+Episode 417 | Reward: 19.0 | Epsilon 0.423
+Episode 418 | Reward: 18.0 | Epsilon 0.421
+Target updated at step 232000
+Episode 419 | Reward: 16.0 | Epsilon 0.419
+Episode 420 | Reward: 23.0 | Epsilon 0.417
+Episode 421 | Reward: 22.0 | Epsilon 0.415
+Target updated at step 234000
+Episode 422 | Reward: 27.0 | Epsilon 0.413
+Episode 423 | Reward: 15.0 | Epsilon 0.412
+Episode 424 | Reward: 8.0 | Epsilon 0.410
+Target updated at step 236000
+Episode 425 | Reward: 13.0 | Epsilon 0.409
+Episode 426 | Reward: 8.0 | Epsilon 0.408
+Episode 427 | Reward: 16.0 | Epsilon 0.406
+Target updated at step 238000
+Episode 428 | Reward: 12.0 | Epsilon 0.404
+Episode 429 | Reward: 23.0 | Epsilon 0.403
+Episode 430 | Reward: 23.0 | Epsilon 0.401
+Target updated at step 240000
+Episode 431 | Reward: 34.0 | Epsilon 0.397
+Episode 432 | Reward: 16.0 | Epsilon 0.396
+Target updated at step 242000
+Episode 433 | Reward: 28.0 | Epsilon 0.394
+Episode 434 | Reward: 12.0 | Epsilon 0.392
+Episode 435 | Reward: 16.0 | Epsilon 0.390
+Target updated at step 244000
+Episode 436 | Reward: 22.0 | Epsilon 0.388
+Episode 437 | Reward: 17.0 | Epsilon 0.387
+Target updated at step 246000
+Episode 438 | Reward: 30.0 | Epsilon 0.384
+Episode 439 | Reward: 22.0 | Epsilon 0.383
+Episode 440 | Reward: 15.0 | Epsilon 0.381
+Target updated at step 248000
+Episode 441 | Reward: 20.0 | Epsilon 0.380
+Episode 442 | Reward: 10.0 | Epsilon 0.378
+Episode 443 | Reward: 23.0 | Epsilon 0.377
+Target updated at step 250000
+Episode 444 | Reward: 30.0 | Epsilon 0.374
+Episode 445 | Reward: 20.0 | Epsilon 0.373
+Episode 446 | Reward: 23.0 | Epsilon 0.371
+Target updated at step 252000
+Episode 447 | Reward: 18.0 | Epsilon 0.369
+Episode 448 | Reward: 22.0 | Epsilon 0.367
+Episode 449 | Reward: 3.0 | Epsilon 0.366
+Target updated at step 254000
+Episode 450 | Reward: 17.0 | Epsilon 0.364
+Episode 451 | Reward: 22.0 | Epsilon 0.362
+Episode 452 | Reward: 21.0 | Epsilon 0.361
+Target updated at step 256000
+Episode 453 | Reward: 17.0 | Epsilon 0.359
+Episode 454 | Reward: 4.0 | Epsilon 0.358
+Episode 455 | Reward: 19.0 | Epsilon 0.357
+Episode 456 | Reward: 22.0 | Epsilon 0.355
+Target updated at step 258000
+Episode 457 | Reward: 21.0 | Epsilon 0.353
+Episode 458 | Reward: 11.0 | Epsilon 0.353
+Episode 459 | Reward: 8.0 | Epsilon 0.352
+Episode 460 | Reward: 10.0 | Epsilon 0.350
+Target updated at step 260000
+Episode 461 | Reward: 10.0 | Epsilon 0.349
+Episode 462 | Reward: 28.0 | Epsilon 0.347
+Target updated at step 262000
+Episode 463 | Reward: 30.0 | Epsilon 0.345
+Episode 464 | Reward: 20.0 | Epsilon 0.343
+Episode 465 | Reward: 22.0 | Epsilon 0.341
+Episode 466 | Reward: 11.0 | Epsilon 0.340
+Target updated at step 264000
+Episode 467 | Reward: 13.0 | Epsilon 0.339
+Episode 468 | Reward: 31.0 | Epsilon 0.337
+Episode 469 | Reward: 10.0 | Epsilon 0.336
+Target updated at step 266000
+Episode 470 | Reward: 24.0 | Epsilon 0.334
+Episode 471 | Reward: 16.0 | Epsilon 0.332
+Episode 472 | Reward: 13.0 | Epsilon 0.331
+Episode 473 | Reward: 11.0 | Epsilon 0.330
+Target updated at step 268000
+Episode 474 | Reward: 19.0 | Epsilon 0.329
+Episode 475 | Reward: 16.0 | Epsilon 0.327
+Target updated at step 270000
+Episode 476 | Reward: 35.0 | Epsilon 0.324
+Episode 477 | Reward: 24.0 | Epsilon 0.323
+Episode 478 | Reward: 19.0 | Epsilon 0.321
+Episode 479 | Reward: 6.0 | Epsilon 0.320
+Target updated at step 272000
+Episode 480 | Reward: 16.0 | Epsilon 0.318
+Episode 481 | Reward: 27.0 | Epsilon 0.316
+Target updated at step 274000
+Episode 482 | Reward: 14.0 | Epsilon 0.314
+Episode 483 | Reward: 8.0 | Epsilon 0.314
+Episode 484 | Reward: 18.0 | Epsilon 0.312
+Episode 485 | Reward: 16.0 | Epsilon 0.310
+Target updated at step 276000
+Episode 486 | Reward: 14.0 | Epsilon 0.309
+Episode 487 | Reward: 14.0 | Epsilon 0.308
+Episode 488 | Reward: 10.0 | Epsilon 0.306
+Target updated at step 278000
+Episode 489 | Reward: 22.0 | Epsilon 0.305
+Episode 490 | Reward: 22.0 | Epsilon 0.303
+Episode 491 | Reward: 18.0 | Epsilon 0.302
+Episode 492 | Reward: 13.0 | Epsilon 0.301
+Target updated at step 280000
+Episode 493 | Reward: 19.0 | Epsilon 0.299
+Episode 494 | Reward: 26.0 | Epsilon 0.297
+Episode 495 | Reward: 15.0 | Epsilon 0.296
+Target updated at step 282000
+Episode 496 | Reward: 15.0 | Epsilon 0.294
+Episode 497 | Reward: 12.0 | Epsilon 0.293
+Episode 498 | Reward: 14.0 | Epsilon 0.292
+Episode 499 | Reward: 7.0 | Epsilon 0.291
+Target updated at step 284000
+Episode 500 | Reward: 25.0 | Epsilon 0.289
+Episode 501 | Reward: 10.0 | Epsilon 0.288
+Episode 502 | Reward: 7.0 | Epsilon 0.287
+Episode 503 | Reward: 13.0 | Epsilon 0.286
+Target updated at step 286000
+Episode 504 | Reward: 13.0 | Epsilon 0.285
+Episode 505 | Reward: 20.0 | Epsilon 0.283
+Episode 506 | Reward: 33.0 | Epsilon 0.281
+Target updated at step 288000
+Episode 507 | Reward: 26.0 | Epsilon 0.279
+Episode 508 | Reward: 23.0 | Epsilon 0.277
+Episode 509 | Reward: 9.0 | Epsilon 0.276
+Target updated at step 290000
+Episode 510 | Reward: 16.0 | Epsilon 0.274
+Episode 511 | Reward: 24.0 | Epsilon 0.273
+Episode 512 | Reward: 20.0 | Epsilon 0.271
+Target updated at step 292000
+Episode 513 | Reward: 23.0 | Epsilon 0.269
+Episode 514 | Reward: 15.0 | Epsilon 0.268
+Episode 515 | Reward: 27.0 | Epsilon 0.266
+Episode 516 | Reward: 12.0 | Epsilon 0.265
+Target updated at step 294000
+Episode 517 | Reward: 9.0 | Epsilon 0.264
+Episode 518 | Reward: 19.0 | Epsilon 0.263
+Episode 519 | Reward: 11.0 | Epsilon 0.261
+Episode 520 | Reward: 10.0 | Epsilon 0.260
+Target updated at step 296000
+Episode 521 | Reward: 25.0 | Epsilon 0.258
+Episode 522 | Reward: 8.0 | Epsilon 0.257
+Episode 523 | Reward: 30.0 | Epsilon 0.255
+Target updated at step 298000
+Episode 524 | Reward: 22.0 | Epsilon 0.253
+Episode 525 | Reward: 22.0 | Epsilon 0.251
+Target updated at step 300000
+Episode 526 | Reward: 24.0 | Epsilon 0.249
+Episode 527 | Reward: 17.0 | Epsilon 0.247
+Episode 528 | Reward: 19.0 | Epsilon 0.246
+Target updated at step 302000
+Episode 529 | Reward: 21.0 | Epsilon 0.244
+Episode 530 | Reward: 25.0 | Epsilon 0.242
+Episode 531 | Reward: 26.0 | Epsilon 0.240
+Target updated at step 304000
+Episode 532 | Reward: 23.0 | Epsilon 0.238
+Episode 533 | Reward: 29.0 | Epsilon 0.236
+Target updated at step 306000
+Episode 534 | Reward: 11.0 | Epsilon 0.235
+Episode 535 | Reward: 11.0 | Epsilon 0.234
+Episode 536 | Reward: 22.0 | Epsilon 0.232
+Episode 537 | Reward: 14.0 | Epsilon 0.231
+Target updated at step 308000
+Episode 538 | Reward: 19.0 | Epsilon 0.229
+Episode 539 | Reward: 24.0 | Epsilon 0.227
+Episode 540 | Reward: 17.0 | Epsilon 0.226
+Target updated at step 310000
+Episode 541 | Reward: 29.0 | Epsilon 0.223
+Episode 542 | Reward: 18.0 | Epsilon 0.222
+Episode 543 | Reward: 23.0 | Epsilon 0.220
+Target updated at step 312000
+Episode 544 | Reward: 24.0 | Epsilon 0.218
+Episode 545 | Reward: 21.0 | Epsilon 0.216
+Target updated at step 314000
+Episode 546 | Reward: 28.0 | Epsilon 0.215
+Episode 547 | Reward: 20.0 | Epsilon 0.213
+Episode 548 | Reward: 7.0 | Epsilon 0.212
+Episode 549 | Reward: 19.0 | Epsilon 0.211
+Target updated at step 316000
+Episode 550 | Reward: 19.0 | Epsilon 0.209
+Episode 551 | Reward: 23.0 | Epsilon 0.207
+Episode 552 | Reward: 19.0 | Epsilon 0.205
+Target updated at step 318000
+Episode 553 | Reward: 11.0 | Epsilon 0.204
+Episode 554 | Reward: 9.0 | Epsilon 0.203
+Episode 555 | Reward: 20.0 | Epsilon 0.201
+Target updated at step 320000
+Episode 556 | Reward: 7.0 | Epsilon 0.200
+Episode 557 | Reward: 15.0 | Epsilon 0.198
+Episode 558 | Reward: 9.0 | Epsilon 0.197
+Episode 559 | Reward: 20.0 | Epsilon 0.195
+Target updated at step 322000
+Episode 560 | Reward: 14.0 | Epsilon 0.194
+Episode 561 | Reward: 20.0 | Epsilon 0.192
+Episode 562 | Reward: 22.0 | Epsilon 0.190
+Target updated at step 324000
+Episode 563 | Reward: 4.0 | Epsilon 0.190
+Episode 564 | Reward: 17.0 | Epsilon 0.188
+Episode 565 | Reward: 12.0 | Epsilon 0.187
+Episode 566 | Reward: 20.0 | Epsilon 0.185
+Target updated at step 326000
+Episode 567 | Reward: 22.0 | Epsilon 0.184
+Episode 568 | Reward: 13.0 | Epsilon 0.183
+Episode 569 | Reward: 21.0 | Epsilon 0.181
+Target updated at step 328000
+Episode 570 | Reward: 13.0 | Epsilon 0.179
+Episode 571 | Reward: 21.0 | Epsilon 0.178
+Episode 572 | Reward: 21.0 | Epsilon 0.176
+Target updated at step 330000
+Episode 573 | Reward: 24.0 | Epsilon 0.174
+Episode 574 | Reward: 6.0 | Epsilon 0.173
+Episode 575 | Reward: 17.0 | Epsilon 0.172
+Episode 576 | Reward: 10.0 | Epsilon 0.170
+Target updated at step 332000
+Episode 577 | Reward: 27.0 | Epsilon 0.168
+Episode 578 | Reward: 22.0 | Epsilon 0.167
+Target updated at step 334000
+Episode 579 | Reward: 21.0 | Epsilon 0.165
+Episode 580 | Reward: 21.0 | Epsilon 0.163
+Episode 581 | Reward: 17.0 | Epsilon 0.161
+Episode 582 | Reward: 15.0 | Epsilon 0.160
+Target updated at step 336000
+Episode 583 | Reward: 21.0 | Epsilon 0.158
+Episode 584 | Reward: 19.0 | Epsilon 0.157
+Episode 585 | Reward: 17.0 | Epsilon 0.155
+Target updated at step 338000
+Episode 586 | Reward: 16.0 | Epsilon 0.154
+Episode 587 | Reward: 15.0 | Epsilon 0.152
+Episode 588 | Reward: 6.0 | Epsilon 0.151
+Episode 589 | Reward: 6.0 | Epsilon 0.150
+Target updated at step 340000
+Episode 590 | Reward: 12.0 | Epsilon 0.149
+Episode 591 | Reward: 21.0 | Epsilon 0.147
+Episode 592 | Reward: 23.0 | Epsilon 0.145
+Target updated at step 342000
+Episode 593 | Reward: 17.0 | Epsilon 0.144
+Episode 594 | Reward: 21.0 | Epsilon 0.142
+Target updated at step 344000
+Episode 595 | Reward: 34.0 | Epsilon 0.139
+Episode 596 | Reward: 30.0 | Epsilon 0.137
+Episode 597 | Reward: 26.0 | Epsilon 0.136
+Target updated at step 346000
+Episode 598 | Reward: 9.0 | Epsilon 0.135
+Episode 599 | Reward: 24.0 | Epsilon 0.133
+Episode 600 | Reward: 20.0 | Epsilon 0.131
+Target updated at step 348000
+Episode 601 | Reward: 23.0 | Epsilon 0.129
+Episode 602 | Reward: 14.0 | Epsilon 0.128
+Episode 603 | Reward: 13.0 | Epsilon 0.126
+Target updated at step 350000
+Episode 604 | Reward: 15.0 | Epsilon 0.124
+Episode 605 | Reward: 13.0 | Epsilon 0.123
+Episode 606 | Reward: 8.0 | Epsilon 0.122
+Target updated at step 352000
+Episode 607 | Reward: 21.0 | Epsilon 0.120
+Episode 608 | Reward: 8.0 | Epsilon 0.119
+Episode 609 | Reward: 12.0 | Epsilon 0.117
+Episode 610 | Reward: 18.0 | Epsilon 0.116
+Target updated at step 354000
+Episode 611 | Reward: 16.0 | Epsilon 0.114
+Episode 612 | Reward: 14.0 | Epsilon 0.113
+Episode 613 | Reward: 23.0 | Epsilon 0.111
+Target updated at step 356000
+Episode 614 | Reward: 21.0 | Epsilon 0.110
+Episode 615 | Reward: 21.0 | Epsilon 0.108
+Episode 616 | Reward: 18.0 | Epsilon 0.106
+Target updated at step 358000
+Episode 617 | Reward: 9.0 | Epsilon 0.105
+Episode 618 | Reward: 27.0 | Epsilon 0.103
+Episode 619 | Reward: 9.0 | Epsilon 0.101
+Target updated at step 360000
+Episode 620 | Reward: 27.0 | Epsilon 0.099
+Episode 621 | Reward: 16.0 | Epsilon 0.098
+Episode 622 | Reward: 16.0 | Epsilon 0.096
+Episode 623 | Reward: 13.0 | Epsilon 0.095
+Target updated at step 362000
+Episode 624 | Reward: 18.0 | Epsilon 0.094
+Episode 625 | Reward: 20.0 | Epsilon 0.091
+Target updated at step 364000
+Episode 626 | Reward: 21.0 | Epsilon 0.090
+Episode 627 | Reward: 17.0 | Epsilon 0.088
+Episode 628 | Reward: 10.0 | Epsilon 0.087
+Episode 629 | Reward: 27.0 | Epsilon 0.085
+Target updated at step 366000
+Episode 630 | Reward: 14.0 | Epsilon 0.084
+Episode 631 | Reward: 11.0 | Epsilon 0.083
+Episode 632 | Reward: 6.0 | Epsilon 0.082
+Episode 633 | Reward: 12.0 | Epsilon 0.080
+Target updated at step 368000
+Episode 634 | Reward: 25.0 | Epsilon 0.078
+Episode 635 | Reward: 10.0 | Epsilon 0.077
+Episode 636 | Reward: 24.0 | Epsilon 0.075
+Target updated at step 370000
+Episode 637 | Reward: 14.0 | Epsilon 0.074
+Episode 638 | Reward: 20.0 | Epsilon 0.072
+Target updated at step 372000
+Episode 639 | Reward: 16.0 | Epsilon 0.070
+Episode 640 | Reward: 23.0 | Epsilon 0.068
+Episode 641 | Reward: 21.0 | Epsilon 0.067
+Target updated at step 374000
+Episode 642 | Reward: 20.0 | Epsilon 0.065
+Episode 643 | Reward: 31.0 | Epsilon 0.062
+Episode 644 | Reward: 20.0 | Epsilon 0.061
+Target updated at step 376000
+Episode 645 | Reward: 12.0 | Epsilon 0.059
+Episode 646 | Reward: 10.0 | Epsilon 0.058
+Episode 647 | Reward: 14.0 | Epsilon 0.056
+Target updated at step 378000
+Episode 648 | Reward: 24.0 | Epsilon 0.054
+Episode 649 | Reward: 24.0 | Epsilon 0.053
+Episode 650 | Reward: 27.0 | Epsilon 0.051
+Target updated at step 380000
+Episode 651 | Reward: 18.0 | Epsilon 0.050
+Episode 652 | Reward: 15.0 | Epsilon 0.050
+Episode 653 | Reward: 21.0 | Epsilon 0.050
+Target updated at step 382000
+Episode 654 | Reward: 21.0 | Epsilon 0.050
+Episode 655 | Reward: 20.0 | Epsilon 0.050
+Episode 656 | Reward: 21.0 | Epsilon 0.050
+Target updated at step 384000
+Episode 657 | Reward: 13.0 | Epsilon 0.050
+Episode 658 | Reward: 23.0 | Epsilon 0.050
+Episode 659 | Reward: 30.0 | Epsilon 0.050
+Target updated at step 386000
+Episode 660 | Reward: 25.0 | Epsilon 0.050
+Episode 661 | Reward: 13.0 | Epsilon 0.050
+Episode 662 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 388000
+Episode 663 | Reward: 17.0 | Epsilon 0.050
+Episode 664 | Reward: 20.0 | Epsilon 0.050
+Episode 665 | Reward: 21.0 | Epsilon 0.050
+Target updated at step 390000
+Episode 666 | Reward: 26.0 | Epsilon 0.050
+Episode 667 | Reward: 31.0 | Epsilon 0.050
+Episode 668 | Reward: 10.0 | Epsilon 0.050
+Target updated at step 392000
+Episode 669 | Reward: 22.0 | Epsilon 0.050
+Episode 670 | Reward: 17.0 | Epsilon 0.050
+Episode 671 | Reward: 16.0 | Epsilon 0.050
+Target updated at step 394000
+Episode 672 | Reward: 23.0 | Epsilon 0.050
+Episode 673 | Reward: 22.0 | Epsilon 0.050
+Episode 674 | Reward: 19.0 | Epsilon 0.050
+Target updated at step 396000
+Episode 675 | Reward: 16.0 | Epsilon 0.050
+Episode 676 | Reward: 21.0 | Epsilon 0.050
+Episode 677 | Reward: 13.0 | Epsilon 0.050
+Target updated at step 398000
+Episode 678 | Reward: 20.0 | Epsilon 0.050
+Episode 679 | Reward: 15.0 | Epsilon 0.050
+Episode 680 | Reward: 21.0 | Epsilon 0.050
+Target updated at step 400000
+Episode 681 | Reward: 17.0 | Epsilon 0.050
+Episode 682 | Reward: 15.0 | Epsilon 0.050
+Episode 683 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 402000
+Episode 684 | Reward: 17.0 | Epsilon 0.050
+Episode 685 | Reward: 23.0 | Epsilon 0.050
+Episode 686 | Reward: 11.0 | Epsilon 0.050
+Target updated at step 404000
+Episode 687 | Reward: 21.0 | Epsilon 0.050
+Episode 688 | Reward: 15.0 | Epsilon 0.050
+Episode 689 | Reward: 16.0 | Epsilon 0.050
+Target updated at step 406000
+Episode 690 | Reward: 28.0 | Epsilon 0.050
+Episode 691 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 408000
+Episode 692 | Reward: 30.0 | Epsilon 0.050
+Episode 693 | Reward: 31.0 | Epsilon 0.050
+Episode 694 | Reward: 9.0 | Epsilon 0.050
+Target updated at step 410000
+Episode 695 | Reward: 13.0 | Epsilon 0.050
+Episode 696 | Reward: 12.0 | Epsilon 0.050
+Episode 697 | Reward: 30.0 | Epsilon 0.050
+Target updated at step 412000
+Episode 698 | Reward: 31.0 | Epsilon 0.050
+Episode 699 | Reward: 22.0 | Epsilon 0.050
+Episode 700 | Reward: 10.0 | Epsilon 0.050
+Target updated at step 414000
+Episode 701 | Reward: 18.0 | Epsilon 0.050
+Episode 702 | Reward: 21.0 | Epsilon 0.050
+Episode 703 | Reward: 19.0 | Epsilon 0.050
+Target updated at step 416000
+Episode 704 | Reward: 13.0 | Epsilon 0.050
+Episode 705 | Reward: 22.0 | Epsilon 0.050
+Episode 706 | Reward: 10.0 | Epsilon 0.050
+Episode 707 | Reward: 8.0 | Epsilon 0.050
+Target updated at step 418000
+Episode 708 | Reward: 10.0 | Epsilon 0.050
+Episode 709 | Reward: 19.0 | Epsilon 0.050
+Episode 710 | Reward: 29.0 | Epsilon 0.050
+Target updated at step 420000
+Episode 711 | Reward: 22.0 | Epsilon 0.050
+Episode 712 | Reward: 22.0 | Epsilon 0.050
+Episode 713 | Reward: 14.0 | Epsilon 0.050
+Episode 714 | Reward: 8.0 | Epsilon 0.050
+Target updated at step 422000
+Episode 715 | Reward: 17.0 | Epsilon 0.050
+Episode 716 | Reward: 20.0 | Epsilon 0.050
+Episode 717 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 424000
+Episode 718 | Reward: 12.0 | Epsilon 0.050
+Episode 719 | Reward: 25.0 | Epsilon 0.050
+Episode 720 | Reward: 29.0 | Epsilon 0.050
+Target updated at step 426000
+Episode 721 | Reward: 24.0 | Epsilon 0.050
+Episode 722 | Reward: 16.0 | Epsilon 0.050
+Episode 723 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 428000
+Episode 724 | Reward: 10.0 | Epsilon 0.050
+Episode 725 | Reward: 11.0 | Epsilon 0.050
+Episode 726 | Reward: 14.0 | Epsilon 0.050
+Episode 727 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 430000
+Episode 728 | Reward: 26.0 | Epsilon 0.050
+Episode 729 | Reward: 10.0 | Epsilon 0.050
+Episode 730 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 432000
+Episode 731 | Reward: 15.0 | Epsilon 0.050
+Episode 732 | Reward: 19.0 | Epsilon 0.050
+Episode 733 | Reward: 17.0 | Epsilon 0.050
+Target updated at step 434000
+Episode 734 | Reward: 10.0 | Epsilon 0.050
+Episode 735 | Reward: 18.0 | Epsilon 0.050
+Episode 736 | Reward: 20.0 | Epsilon 0.050
+Target updated at step 436000
+Episode 737 | Reward: 12.0 | Epsilon 0.050
+Episode 738 | Reward: 15.0 | Epsilon 0.050
+Episode 739 | Reward: 13.0 | Epsilon 0.050
+Episode 740 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 438000
+Episode 741 | Reward: 29.0 | Epsilon 0.050
+Episode 742 | Reward: 20.0 | Epsilon 0.050
+Episode 743 | Reward: 16.0 | Epsilon 0.050
+Target updated at step 440000
+Episode 744 | Reward: 22.0 | Epsilon 0.050
+Episode 745 | Reward: 14.0 | Epsilon 0.050
+Episode 746 | Reward: 20.0 | Epsilon 0.050
+Target updated at step 442000
+Episode 747 | Reward: 26.0 | Epsilon 0.050
+Episode 748 | Reward: 12.0 | Epsilon 0.050
+Episode 749 | Reward: 18.0 | Epsilon 0.050
+Episode 750 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 444000
+Episode 751 | Reward: 21.0 | Epsilon 0.050
+Episode 752 | Reward: 9.0 | Epsilon 0.050
+Episode 753 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 446000
+Episode 754 | Reward: 9.0 | Epsilon 0.050
+Episode 755 | Reward: 27.0 | Epsilon 0.050
+Episode 756 | Reward: 20.0 | Epsilon 0.050
+Target updated at step 448000
+Episode 757 | Reward: 13.0 | Epsilon 0.050
+Episode 758 | Reward: 23.0 | Epsilon 0.050
+Episode 759 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 450000
+Episode 760 | Reward: 11.0 | Epsilon 0.050
+Episode 761 | Reward: 13.0 | Epsilon 0.050
+Episode 762 | Reward: 27.0 | Epsilon 0.050
+Target updated at step 452000
+Episode 763 | Reward: 24.0 | Epsilon 0.050
+Episode 764 | Reward: 23.0 | Epsilon 0.050
+Episode 765 | Reward: 5.0 | Epsilon 0.050
+Episode 766 | Reward: 9.0 | Epsilon 0.050
+Target updated at step 454000
+Episode 767 | Reward: 11.0 | Epsilon 0.050
+Episode 768 | Reward: 26.0 | Epsilon 0.050
+Episode 769 | Reward: 11.0 | Epsilon 0.050
+Target updated at step 456000
+Episode 770 | Reward: 32.0 | Epsilon 0.050
+Episode 771 | Reward: 12.0 | Epsilon 0.050
+Episode 772 | Reward: 19.0 | Epsilon 0.050
+Episode 773 | Reward: 11.0 | Epsilon 0.050
+Target updated at step 458000
+Episode 774 | Reward: 11.0 | Epsilon 0.050
+Episode 775 | Reward: 15.0 | Epsilon 0.050
+Episode 776 | Reward: 12.0 | Epsilon 0.050
+Episode 777 | Reward: 15.0 | Epsilon 0.050
+Target updated at step 460000
+Episode 778 | Reward: 23.0 | Epsilon 0.050
+Episode 779 | Reward: 27.0 | Epsilon 0.050
+Episode 780 | Reward: 13.0 | Epsilon 0.050
+Target updated at step 462000
+Episode 781 | Reward: 21.0 | Epsilon 0.050
+Episode 782 | Reward: 28.0 | Epsilon 0.050
+Target updated at step 464000
+Episode 783 | Reward: 24.0 | Epsilon 0.050
+Episode 784 | Reward: 13.0 | Epsilon 0.050
+Episode 785 | Reward: 20.0 | Epsilon 0.050
+Episode 786 | Reward: 16.0 | Epsilon 0.050
+Target updated at step 466000
+Episode 787 | Reward: 19.0 | Epsilon 0.050
+Episode 788 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 468000
+Episode 789 | Reward: 36.0 | Epsilon 0.050
+Episode 790 | Reward: 21.0 | Epsilon 0.050
+Episode 791 | Reward: 19.0 | Epsilon 0.050
+Target updated at step 470000
+Episode 792 | Reward: 8.0 | Epsilon 0.050
+Episode 793 | Reward: 8.0 | Epsilon 0.050
+Episode 794 | Reward: 21.0 | Epsilon 0.050
+Episode 795 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 472000
+Episode 796 | Reward: 21.0 | Epsilon 0.050
+Episode 797 | Reward: 30.0 | Epsilon 0.050
+Episode 798 | Reward: 11.0 | Epsilon 0.050
+Target updated at step 474000
+Episode 799 | Reward: 15.0 | Epsilon 0.050
+Episode 800 | Reward: 25.0 | Epsilon 0.050
+Episode 801 | Reward: 26.0 | Epsilon 0.050
+Target updated at step 476000
+Episode 802 | Reward: 13.0 | Epsilon 0.050
+Episode 803 | Reward: 23.0 | Epsilon 0.050
+Episode 804 | Reward: 10.0 | Epsilon 0.050
+Target updated at step 478000
+Episode 805 | Reward: 21.0 | Epsilon 0.050
+Episode 806 | Reward: 10.0 | Epsilon 0.050
+Episode 807 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 480000
+Episode 808 | Reward: 32.0 | Epsilon 0.050
+Episode 809 | Reward: 19.0 | Epsilon 0.050
+Episode 810 | Reward: 13.0 | Epsilon 0.050
+Episode 811 | Reward: 14.0 | Epsilon 0.050
+Target updated at step 482000
+Episode 812 | Reward: 17.0 | Epsilon 0.050
+Episode 813 | Reward: 9.0 | Epsilon 0.050
+Episode 814 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 484000
+Episode 815 | Reward: 15.0 | Epsilon 0.050
+Episode 816 | Reward: 6.0 | Epsilon 0.050
+Episode 817 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 486000
+Episode 818 | Reward: 24.0 | Epsilon 0.050
+Episode 819 | Reward: 15.0 | Epsilon 0.050
+Episode 820 | Reward: 30.0 | Epsilon 0.050
+Episode 821 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 488000
+Episode 822 | Reward: 20.0 | Epsilon 0.050
+Episode 823 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 490000
+Episode 824 | Reward: 22.0 | Epsilon 0.050
+Episode 825 | Reward: 21.0 | Epsilon 0.050
+Episode 826 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 492000
+Episode 827 | Reward: 18.0 | Epsilon 0.050
+Episode 828 | Reward: 8.0 | Epsilon 0.050
+Episode 829 | Reward: 12.0 | Epsilon 0.050
+Episode 830 | Reward: 21.0 | Epsilon 0.050
+Target updated at step 494000
+Episode 831 | Reward: 25.0 | Epsilon 0.050
+Episode 832 | Reward: 16.0 | Epsilon 0.050
+Episode 833 | Reward: 14.0 | Epsilon 0.050
+Target updated at step 496000
+Episode 834 | Reward: 5.0 | Epsilon 0.050
+Episode 835 | Reward: 11.0 | Epsilon 0.050
+Episode 836 | Reward: 24.0 | Epsilon 0.050
+Episode 837 | Reward: 3.0 | Epsilon 0.050
+Target updated at step 498000
+Episode 838 | Reward: 18.0 | Epsilon 0.050
+Episode 839 | Reward: 12.0 | Epsilon 0.050
+Episode 840 | Reward: 17.0 | Epsilon 0.050
+Target updated at step 500000
+Episode 841 | Reward: 17.0 | Epsilon 0.050
+Episode 842 | Reward: 18.0 | Epsilon 0.050
+Episode 843 | Reward: 21.0 | Epsilon 0.050
+Episode 844 | Reward: 14.0 | Epsilon 0.050
+Target updated at step 502000
+Episode 845 | Reward: 12.0 | Epsilon 0.050
+Episode 846 | Reward: 24.0 | Epsilon 0.050
+Episode 847 | Reward: 11.0 | Epsilon 0.050
+Target updated at step 504000
+Episode 848 | Reward: 24.0 | Epsilon 0.050
+Episode 849 | Reward: 9.0 | Epsilon 0.050
+Episode 850 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 506000
+Episode 851 | Reward: 21.0 | Epsilon 0.050
+Episode 852 | Reward: 27.0 | Epsilon 0.050
+Episode 853 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 508000
+Episode 854 | Reward: 20.0 | Epsilon 0.050
+Episode 855 | Reward: 28.0 | Epsilon 0.050
+Episode 856 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 510000
+Episode 857 | Reward: 22.0 | Epsilon 0.050
+Episode 858 | Reward: 27.0 | Epsilon 0.050
+Episode 859 | Reward: 22.0 | Epsilon 0.050
+Target updated at step 512000
+Episode 860 | Reward: 20.0 | Epsilon 0.050
+Episode 861 | Reward: 22.0 | Epsilon 0.050
+Episode 862 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 514000
+Episode 863 | Reward: 21.0 | Epsilon 0.050
+Episode 864 | Reward: 16.0 | Epsilon 0.050
+Episode 865 | Reward: 5.0 | Epsilon 0.050
+Episode 866 | Reward: 6.0 | Epsilon 0.050
+Target updated at step 516000
+Episode 867 | Reward: 28.0 | Epsilon 0.050
+Episode 868 | Reward: 19.0 | Epsilon 0.050
+Episode 869 | Reward: 21.0 | Epsilon 0.050
+Target updated at step 518000
+Episode 870 | Reward: 12.0 | Epsilon 0.050
+Episode 871 | Reward: 16.0 | Epsilon 0.050
+Episode 872 | Reward: 26.0 | Epsilon 0.050
+Target updated at step 520000
+Episode 873 | Reward: 21.0 | Epsilon 0.050
+Episode 874 | Reward: 23.0 | Epsilon 0.050
+Episode 875 | Reward: 10.0 | Epsilon 0.050
+Target updated at step 522000
+Episode 876 | Reward: 22.0 | Epsilon 0.050
+Episode 877 | Reward: 26.0 | Epsilon 0.050
+Target updated at step 524000
+Episode 878 | Reward: 23.0 | Epsilon 0.050
+Episode 879 | Reward: 21.0 | Epsilon 0.050
+Episode 880 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 526000
+Episode 881 | Reward: 28.0 | Epsilon 0.050
+Episode 882 | Reward: 22.0 | Epsilon 0.050
+Episode 883 | Reward: 17.0 | Epsilon 0.050
+Target updated at step 528000
+Episode 884 | Reward: 18.0 | Epsilon 0.050
+Episode 885 | Reward: 11.0 | Epsilon 0.050
+Episode 886 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 530000
+Episode 887 | Reward: 21.0 | Epsilon 0.050
+Episode 888 | Reward: 15.0 | Epsilon 0.050
+Episode 889 | Reward: 24.0 | Epsilon 0.050
+Target updated at step 532000
+Episode 890 | Reward: 21.0 | Epsilon 0.050
+Episode 891 | Reward: 16.0 | Epsilon 0.050
+Episode 892 | Reward: 32.0 | Epsilon 0.050
+Target updated at step 534000
+Episode 893 | Reward: 8.0 | Epsilon 0.050
+Episode 894 | Reward: 22.0 | Epsilon 0.050
+Episode 895 | Reward: 14.0 | Epsilon 0.050
+Target updated at step 536000
+Episode 896 | Reward: 19.0 | Epsilon 0.050
+Episode 897 | Reward: 10.0 | Epsilon 0.050
+Episode 898 | Reward: 20.0 | Epsilon 0.050
+Episode 899 | Reward: 16.0 | Epsilon 0.050
+Target updated at step 538000
+Episode 900 | Reward: 20.0 | Epsilon 0.050
+Episode 901 | Reward: 20.0 | Epsilon 0.050
+Episode 902 | Reward: 20.0 | Epsilon 0.050
+Target updated at step 540000
+Episode 903 | Reward: 34.0 | Epsilon 0.050
+Episode 904 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 542000
+Episode 905 | Reward: 7.0 | Epsilon 0.050
+Episode 906 | Reward: 23.0 | Epsilon 0.050
+Episode 907 | Reward: 24.0 | Epsilon 0.050
+Target updated at step 544000
+Episode 908 | Reward: 27.0 | Epsilon 0.050
+Episode 909 | Reward: 18.0 | Epsilon 0.050
+Episode 910 | Reward: 13.0 | Epsilon 0.050
+Episode 911 | Reward: 14.0 | Epsilon 0.050
+Target updated at step 546000
+Episode 912 | Reward: 24.0 | Epsilon 0.050
+Episode 913 | Reward: 19.0 | Epsilon 0.050
+Target updated at step 548000
+Episode 914 | Reward: 23.0 | Epsilon 0.050
+Episode 915 | Reward: 22.0 | Epsilon 0.050
+Episode 916 | Reward: 24.0 | Epsilon 0.050
+Target updated at step 550000
+Episode 917 | Reward: 21.0 | Epsilon 0.050
+Episode 918 | Reward: 22.0 | Epsilon 0.050
+Episode 919 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 552000
+Episode 920 | Reward: 13.0 | Epsilon 0.050
+Episode 921 | Reward: 17.0 | Epsilon 0.050
+Episode 922 | Reward: 16.0 | Epsilon 0.050
+Episode 923 | Reward: 20.0 | Epsilon 0.050
+Target updated at step 554000
+Episode 924 | Reward: 28.0 | Epsilon 0.050
+Episode 925 | Reward: 17.0 | Epsilon 0.050
+Target updated at step 556000
+Episode 926 | Reward: 19.0 | Epsilon 0.050
+Episode 927 | Reward: 14.0 | Epsilon 0.050
+Episode 928 | Reward: 18.0 | Epsilon 0.050
+Episode 929 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 558000
+Episode 930 | Reward: 24.0 | Epsilon 0.050
+Episode 931 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 560000
+Episode 932 | Reward: 22.0 | Epsilon 0.050
+Episode 933 | Reward: 15.0 | Epsilon 0.050
+Episode 934 | Reward: 20.0 | Epsilon 0.050
+Target updated at step 562000
+Episode 935 | Reward: 23.0 | Epsilon 0.050
+Episode 936 | Reward: 31.0 | Epsilon 0.050
+Episode 937 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 564000
+Episode 938 | Reward: 17.0 | Epsilon 0.050
+Episode 939 | Reward: 13.0 | Epsilon 0.050
+Episode 940 | Reward: 28.0 | Epsilon 0.050
+Target updated at step 566000
+Episode 941 | Reward: 30.0 | Epsilon 0.050
+Episode 942 | Reward: 8.0 | Epsilon 0.050
+Episode 943 | Reward: 7.0 | Epsilon 0.050
+Episode 944 | Reward: 11.0 | Epsilon 0.050
+Target updated at step 568000
+Episode 945 | Reward: 26.0 | Epsilon 0.050
+Episode 946 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 570000
+Episode 947 | Reward: 22.0 | Epsilon 0.050
+Episode 948 | Reward: 30.0 | Epsilon 0.050
+Episode 949 | Reward: 15.0 | Epsilon 0.050
+Episode 950 | Reward: 14.0 | Epsilon 0.050
+Target updated at step 572000
+Episode 951 | Reward: 23.0 | Epsilon 0.050
+Episode 952 | Reward: 15.0 | Epsilon 0.050
+Target updated at step 574000
+Episode 953 | Reward: 25.0 | Epsilon 0.050
+Episode 954 | Reward: 14.0 | Epsilon 0.050
+Episode 955 | Reward: 18.0 | Epsilon 0.050
+Episode 956 | Reward: 12.0 | Epsilon 0.050
+Target updated at step 576000
+Episode 957 | Reward: 18.0 | Epsilon 0.050
+Episode 958 | Reward: 32.0 | Epsilon 0.050
+Episode 959 | Reward: 19.0 | Epsilon 0.050
+Target updated at step 578000
+Episode 960 | Reward: 22.0 | Epsilon 0.050
+Episode 961 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 580000
+Episode 962 | Reward: 25.0 | Epsilon 0.050
+Episode 963 | Reward: 13.0 | Epsilon 0.050
+Episode 964 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 582000
+Episode 965 | Reward: 22.0 | Epsilon 0.050
+Episode 966 | Reward: 17.0 | Epsilon 0.050
+Episode 967 | Reward: 13.0 | Epsilon 0.050
+Target updated at step 584000
+Episode 968 | Reward: 24.0 | Epsilon 0.050
+Episode 969 | Reward: 7.0 | Epsilon 0.050
+Episode 970 | Reward: 24.0 | Epsilon 0.050
+Episode 971 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 586000
+Episode 972 | Reward: 9.0 | Epsilon 0.050
+Episode 973 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 588000
+Episode 974 | Reward: 28.0 | Epsilon 0.050
+Episode 975 | Reward: 22.0 | Epsilon 0.050
+Episode 976 | Reward: 21.0 | Epsilon 0.050
+Episode 977 | Reward: 15.0 | Epsilon 0.050
+Target updated at step 590000
+Episode 978 | Reward: 30.0 | Epsilon 0.050
+Episode 979 | Reward: 18.0 | Epsilon 0.050
+Episode 980 | Reward: 18.0 | Epsilon 0.050
+Target updated at step 592000
+Episode 981 | Reward: 30.0 | Epsilon 0.050
+Episode 982 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 594000
+Episode 983 | Reward: 16.0 | Epsilon 0.050
+Episode 984 | Reward: 16.0 | Epsilon 0.050
+Episode 985 | Reward: 19.0 | Epsilon 0.050
+Target updated at step 596000
+Episode 986 | Reward: 34.0 | Epsilon 0.050
+Episode 987 | Reward: 19.0 | Epsilon 0.050
+Episode 988 | Reward: 23.0 | Epsilon 0.050
+Target updated at step 598000
+Episode 989 | Reward: 27.0 | Epsilon 0.050
+Episode 990 | Reward: 32.0 | Epsilon 0.050
+Episode 991 | Reward: 17.0 | Epsilon 0.050
+Target updated at step 600000
+Episode 992 | Reward: 37.0 | Epsilon 0.050
+Episode 993 | Reward: 30.0 | Epsilon 0.050
+Target updated at step 602000
+Episode 994 | Reward: 27.0 | Epsilon 0.050
+Episode 995 | Reward: 15.0 | Epsilon 0.050
+Episode 996 | Reward: 24.0 | Epsilon 0.050
+Target updated at step 604000
+Episode 997 | Reward: 14.0 | Epsilon 0.050
+Episode 998 | Reward: 31.0 | Epsilon 0.050
+Episode 999 | Reward: 25.0 | Epsilon 0.050
+Target updated at step 606000
+Episode 1000 | Reward: 32.0 | Epsilon 0.050
